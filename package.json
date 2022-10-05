@@ -1,0 +1,27 @@
+{
+  "name": "array-to-tree-nodes",
+  "version": "1.0.0",
+  "description": "Construct a complete binary tree from given array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANOJ-M-01/array-to-tree-nodes.git"
+  },
+  "keywords": [
+    "tree nodes",
+    "array to tree",
+    "array to tree nodes"
+  ],
+  "author": "Manoj M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANOJ-M-01/array-to-tree-nodes/issues"
+  },
+  "homepage": "https://github.com/MANOJ-M-01/array-to-tree-nodes#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.2"
+  }
+}
