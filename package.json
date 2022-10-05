@@ -1,6 +1,6 @@
 {
   "name": "array-to-tree-nodes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Construct a complete binary tree from given array",
   "main": "index.js",
   "scripts": {
