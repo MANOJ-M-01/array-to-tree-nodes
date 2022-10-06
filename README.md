@@ -4,7 +4,7 @@ Construct a complete binary tree from given array
 
 # How to install ?
 
-```npm
+```
 npm i array-to-tree-nodes
 ```
 
@@ -12,7 +12,7 @@ npm i array-to-tree-nodes
 
 ```jsx
 //importing package
-const BinaryTree = require("../index.js");
+const BinaryTree = require("array-to-tree-nodes");
 
 let arr = [1, 2, 3];
 let tree = BinaryTree(arr);
